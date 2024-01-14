@@ -12,8 +12,8 @@ The Validators directory of the AtomOne repo is an initiative to help serve as a
 * find development synergies and implementations
 * make introductions to potential partners
 * get plugged into the ecosystem
-  
-—--------------------------------------
+
+---
 
 **AtomOne Validator Application Template:**
 
@@ -33,4 +33,20 @@ You can tag it with **"validators directory"**
 8) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
 9) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
 10) Must contribute to build a fair validators distribution structure by building guidelines to include tiers, participation levels, and validators limitations and operating conditions
-11) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)). The AtomOne Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
+11) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)). The AtomOne Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
+
+---
+
+**Directory:**
+
+1) Umbrella
+2) Umbrella wants to become a validator for GovNo and AtomOne because of curiosity, and being part of the experiment about inflation rate on chain security, as well as being there to support the Cosmos Network if Cosmos Hub's security fails.
+3) Umbrella had been a validator on the Cosmos Hub since genesis.
+4) Details
+    1) Website @ [https://www.umbrellavalidator.com](https://www.umbrellavalidator.com)
+    2) Email @ [hello@umbrellavalidator.com](hello@umbrellavalidator.com)
+5) Team structure (roles, and Discord handles)
+    1) [Luigi](https://twitter.com/TILuigi), IC, dluigi
+6) Social accounts
+    1) Twitter: [@UmbrellaValid](https://twitter.com/UmbrellaValid)
+
