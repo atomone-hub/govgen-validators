@@ -26,11 +26,12 @@ You can tag it with **"validators directory"**
 4) Details of your validator (website and contact email)
 5) Team structure, roles, and Discord handles
 6) Link to your main social accounts
+7) Unique validator key to submit
 
 **In order for the application to be approved by the community, all AtomOne/GovNo Validators:**
 
-7) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
-8) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
-9) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
-10) Must contribute to build a fair validators distribution structure by building guidelines to include tiers, participation levels, and validators limitations and operating conditions
-11) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)). The AtomOne Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
+8) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
+9) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
+10) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
+11) Must contribute to build a fair validators distribution structure by building guidelines to include participation levels, and validators limitations and operating conditions
+12) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)). The AtomOne Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
