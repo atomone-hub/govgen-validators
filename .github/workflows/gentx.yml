@@ -1,0 +1,75 @@
+name: Gentx checker
+
+on:
+  pull_request: {}
+  push:
+    paths:
+      - govgen-1/gentx/*.json
+    branches:
+      - "ci/gentx"
+
+env:
+  GOVGEND_VERSION: "v1.0.0"
+  GENESIS_URL: ""
+  MUST_STAKED_AMOUNT: "1000000"
+
+jobs:
+  check-gentx:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get changed files
+        id: files
+        uses: jitterbit/get-changed-files@v1
+        with:
+          format: json
+
+      - name: Check gentx values
+        run: |
+          for f in ${{ steps.files.outputs.all }}; do
+            if [[ "$f" == "*gentx/*.json" ]]; then
+              echo "checking file: $f"
+
+              COMMISSION_RATE=$(cat $f | jq -r '.body.messages[0].commission.rate')
+              COMMISSION_MAX_RATE=$(cat $f | jq -r '.body.messages[0].commission.max_rate')
+              COMMISSION_MAX_CHANGE_RATE=$(cat $f | jq -r '.body.messages[0].commission.max_change_rate')
+              STAKED_AMOUNT=$(cat $f | jq -r '.body.messages[0].value.amount')
+
+              # bc return 1 when success
+              echo "$COMMISSION_RATE == 0" | bc            && echo "commission_rate must be 0" && exit 1
+              echo "$COMMISSION_MAX_RATE == 0" | bc        && echo "commission_max_rate must be 0" && exit 1
+              echo "$COMMISSION_MAX_CHANGE_RATE == 0" | bc && echo "commission_max_change_rate must be 0" && exit 1
+
+              echo "$STAKED_AMOUNT == $MUST_STAKED_AMOUNT | bc" && echo "staked amount must be $MUST_STAKED_AMOUNT" && exit 1
+            fi
+          done
+
+  validate-gentx:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download govgend
+        runs: |
+          wget -O /usr/bin/govgend https://github.com/cosmos/gaia/releases/download/${GOVGEND_VERSION}/gaiad-${GOVGEND_VERSION}-linux-amd64
+
+      - name: Collect gentxs
+        runs: |
+          govgend init github-ci --chain-id govgen-1
+
+          wget -O /root/.govgen/config/genesis.json $GENESIS_URL
+
+          for f in "govgen-1/gentx/*.json"; do
+            ADDR=$(cat $f | jq -r '.body.messages[0].delegator_address')
+            govgend add-genesis-account $ADDR 10000000ugovgen
+
+          done
+
+          govgend collect-gentx --gentx-dir ./govgen-1/gentx
+
+      - name: Validate genesis
+        runs: |
+          govgend validate-genesis
