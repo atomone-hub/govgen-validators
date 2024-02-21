@@ -1,4 +1,12 @@
-# validator
+# Networks
+
+### 🔗 [govgen-1](./govgen-1)
+
+![chain-id](https://img.shields.io/badge/chain%20id-govgen--1-blue?style=for-the-badge)
+
+
+# Validators
+
 **Directory for GovGen and AtomOne Validators**
 
 The GovGen and AtomOne Validators directory is a space to build a registry of GovGen and AtomOne validators for the community. A comprehensive list of validators, with information on who they are and how to get in touch, will make it easier for the validators community to engage directly with one another, coordinate upcoming tasks, and collaborate more efficiently. This directory is also a great space to discuss validated proposals in regard to operating requirements, upcoming issues, implementation ideas, or proposed solutions.
