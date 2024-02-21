@@ -35,7 +35,7 @@ You can tag it with **"validators directory"**
 5) Team structure, roles, and Discord handles
 6) Link to your main social accounts
 7) Unique validator key to submit (from Cosmos Hub)
-8) Region you (or your) validator is based (country)
+8) Region you and/or your validator is based (country)
 
 **In order for the application to be approved by the community, all AtomOne/GovGen Validators:**
 
