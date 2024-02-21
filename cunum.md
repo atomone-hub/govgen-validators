@@ -14,16 +14,15 @@
 
 4) Details of your validator (website and contact email)
 
-- Website: https://cunum.com
+- Website: https://cosmos.cunum.com
 - Email: staking@cunum.com
 
 5) Team structure, roles, and Discord handles
 
-- Christian Mahler, all roles, cunum
+- Christian Mahler, admin, cunum_04458
 
 6) Link to your main social accounts
 
-- Website: https://cunum.com
 - Twitter: https://twitter.com/CunumStaking
 
 7) Unique validator key to submit
