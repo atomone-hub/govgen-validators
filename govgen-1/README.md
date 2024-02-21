@@ -23,7 +23,7 @@ The `commission-rate`, `commission-max-rate`, `commission-max-change-rate` are r
 
 ```sh
 # Create the gentx
-govgend gentx your-key-name 10000000000ugovgen \
+govgend gentx your-key-name 1000000ugovgen \
   --node-id $(govgend tendermint show-node-id) \
   --chain-id govgen-1 \
   --commission-rate 0.0 \
