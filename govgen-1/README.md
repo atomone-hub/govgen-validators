@@ -14,7 +14,7 @@ govgend init your-moniker --chain-id govgen-1
 govgend keys add your-key-name
 
 # Set account necessary balance
-govgend add-genesis-account your-key-name 10000200000ugovgen
+govgend add-genesis-account your-key-name 10000000ugovgen
 ```
 
 Then create your own genesis transaction (`gentx`). You will have to choose the following parameters for your validator: `commission-rate`, `commission-max-rate`, `commission-max-change-rate` all set to 0, `min-self-delegation` (>=1), `website` (optional), `details` (optional), `identity` ([keybase](https://keybase.io) key hash, used to get validator logos in block explorers - optional), `security-contact` (email - optional).
