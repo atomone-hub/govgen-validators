@@ -8,7 +8,6 @@
 
 - We strongly believe that ATOMONE will fulfill the initial vision of COSMOS. We want to see the ATOMONE ecosystem grow, with ATONE only serving as a true governance token.
 
-
 3) Brief history/ Intro to your validator
 
 - AutoStake has been validating blockchains since 2019, running running now more than 50+ networks Cosmos based.
@@ -21,24 +20,29 @@
 
 5) Team structure, roles, and Discord handles
 
-- Nathan, Founder and Lead Engineer
-- Liam, DevOps Engineer
+- Nathan, Founder and Lead Engineer, Discord: autostake
+- Liam, DevOps Engineer, Discord: cryptoredolent
 - lucas, Software Engineer
 
 6) Link to your main social accounts
 
-- Twitter: [@NGINE](https://twitter.com/AutoStake_)
+- Twitter: (https://twitter.com/AutoStake_)
+- Telegram: (https://t.me/AutoStake_com)
 
 7) Unique validator key to submit
 
 - TBD
 
-8) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
+8) Region you and/or your validator is based (country)
 
-9) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
+We the persons are based in the United Kingdom, the validator nodes are located in a in Poland.
 
-10) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
+9) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
 
-11) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
+10) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
 
-12) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
+11) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
+
+12) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
+
+13) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
