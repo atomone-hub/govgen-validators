@@ -10,7 +10,7 @@
 
 3) Brief history/ Intro to your validator 
 
-- The White Whale team has been running validators since 2022. We actively validate over 10 cosmos chains and run our own chain and protocol. We are high skilled and experienced cosmos devs who have been here from the start. 
+- The White Whale team has been running validators since 2022. We actively validate over 10 cosmos chains and run our own chain and protocol. We are high skilled and experienced cosmos devs who have been a part of the ecosystem from the early days. 
 
 4) Details of your validator (website and contact email)
 
