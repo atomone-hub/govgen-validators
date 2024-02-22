@@ -6,7 +6,7 @@
 
 2) Why you want to become a validator for GovNo and AtomOne
 
-- I'm a supporter of the cause, voted 'NO' on #848 because I don't see a future in a Hub that doesn't max out on security for ICS. Always wanted to validate for a Cosmos appchain but never dared because of the intimidating cartel-like structure in the ecosystem. Hoping this will be a thing of the past with the new compensation mechanics of AtomOne by getting rid of the commission based system, finally bringing more decentralization to the Cosmos ecosystem.
+- I'm a supporter of the cause, voted 'no' on prop #848 because I don't see a future in a Hub that doesn't max out on security for ICS and I see ICS as a crucial component for the success of the entire Cosmos ecosystem. I always wanted to validate for a Cosmos appchain but never dared because of the intimidating cartel-like structures in the ecosystem. I'm hoping this will be a thing of the past with the new compensation mechanics of AtomOne, by getting rid of the commission based system, finally bringing more decentralization to the Cosmos ecosystem.
 
 3) Brief history/ Intro to your validator
 
@@ -27,14 +27,28 @@
 
 7) Unique validator key to submit
 
-- 
+- govgen133qn5c90s2cz0488l0h23wlqe784mpl0r7jm2c
 
-8) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
+8) Region you and/or your validator is based (country)
 
-9) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
+- I am based in Germany, validator will be based in Europe (either Germany, France or Finland)
 
-10) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
+9) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
 
-11) Must contribute to build a fair validators distribution structure by building guidelines to include tiers, participation levels, and validators limitations and operating conditions
+- Acknowledged
 
-12) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)). The AtomOne Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
+10) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
+
+- Acknowledged
+
+11) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
+
+- Acknowledged
+
+12) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
+
+- Acknowledged
+
+13) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
+
+- Acknowledged
