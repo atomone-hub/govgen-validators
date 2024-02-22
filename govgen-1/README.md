@@ -35,3 +35,14 @@ govgend gentx your-key-name 1000000ugovgen \
   --identity "id-from-keybase" \
   --security-contact "security@foo.network"
 ```
+
+## Node operator recommendation
+
+### Hardware recommendation
+
+GovGen is a relatively simple and vanilla Cosmos SDK chain with minor modifications. The recommended minimum hardware requirements should be enough to comfortably be able to run a validator node.
+
+- 4 Cores
+- 8 GB RAM
+- 512 GB disk space (could increase over time, will need to monitor disk usage)
+
