@@ -31,7 +31,7 @@
 
 8) Region you and/or your validator is based (country)
 
-- I am based in Germany, validator will be based in Europe (either Germany, France or Finland)
+- I am based in Germany, validator will be based in Europe (like Germany, France, Austria, Finland...)
 
 9) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
 
