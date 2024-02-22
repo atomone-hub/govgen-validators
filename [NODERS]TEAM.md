@@ -12,9 +12,9 @@
 
 - Our team, the [NODERS]TEAM, is driven by the desire to contribute to the blockchain ecosystem, especially within the Cosmos network, which we consider to be the pinnacle of crypto innovation. We have more than ten years of experience in the IT field. Our experience covers node launch and validation for various blockchain projects supported by a global team of experts in cybersecurity, DevOps, full stack development and research.
 
-We have been actively conducting validation for three years, prioritizing high-quality service thanks to advanced equipment, a unique monitoring system and strict cybersecurity measures. Our infrastructure covers reliable hosting services around the world and our own facilities in Austria, Greece, Indonesia and Kazakhstan, providing reliable protection against attacks and downtime.
+- We have been actively conducting validation for three years, prioritizing high-quality service thanks to advanced equipment, a unique monitoring system and strict cybersecurity measures. Our infrastructure covers reliable hosting services around the world and our own facilities in Austria, Greece, Indonesia and Kazakhstan, providing reliable protection against attacks and downtime.
 
-Our contribution to the Cosmos ecosystem and beyond is significant: we participate in more than 100 test networks and perform validation for numerous major networks. We are not only running nodes; we are actively developing Web3 solutions, automating testnet tasks and supporting projects using our node service platform, sharing our tools and ideas with the community.
+- Our contribution to the Cosmos ecosystem and beyond is significant: we participate in more than 100 test networks and perform validation for numerous major networks. We are not only running nodes; we are actively developing Web3 solutions, automating testnet tasks and supporting projects using our node service platform, sharing our tools and ideas with the community.
 
 4) Details of your validator (website and contact email)
 
