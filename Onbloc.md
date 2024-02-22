@@ -39,19 +39,25 @@
 - Onbloc: https://twitter.com/onblocxyz
 - Dongwon Shin: https://twitter.com/dongwon8247, https://www.linkedin.com/in/dongwon8247/
 
+7. Unique validator key to submit (from Cosmos Hub)
+- govgen14sgz2ga4fhlwn5tn7upd76ej7j53qfrpzdk7js
+
+8. Region you and/or your validator is based (coutnry)
+- South Korea ( FYI, validator node be in USA )
+
 In order for the application to be approved by the community, all AtomOne/GovNo Validators:
 
-7. Must replicate, understand, and validate the genesis distribution. (See atomone-hub/genesis#65 (review))
+9. Must replicate, understand, and validate the genesis distribution. (See atomone-hub/genesis#65 (review))
 - I acknowledge. I will make sure we go through the validation process of the genesis distribution.
 
-8. Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs.
+10. Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs.
 - We will make a PR soon.
 
-9. Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach.
+11. Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach.
 - I acknowledge. We'll adhere to the mandate and provide traslation for the locals whenever needed. As part of this effort, we made a Korean translation of STAKING_VS_MONEY.md (https://github.com/atomone-hub/genesis/pull/104).
 
-10. Must contribute to build a fair validators distribution structure by building guidelines to include tiers, participation levels, and validators limitations and operating conditions.
+12. Must contribute to build a fair validators distribution structure by building guidelines to include tiers, participation levels, and validators limitations and operating conditions.
 - I acknowledge. 
 
-11. Must provide Transparency disclosures of associations among validators. (Also see Validators and KYC #75). The AtomOne Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: (Validators and KYC #75)
+13. Must provide Transparency disclosures of associations among validators. (Also see Validators and KYC #75). The AtomOne Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: (Validators and KYC #75)
 - I acknowledge.
