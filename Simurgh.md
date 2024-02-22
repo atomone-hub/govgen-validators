@@ -12,13 +12,15 @@
 6) Link to your main social accounts
 - https://twitter.com/SimurghStaking
 7) Unique validator key to submit
-- TBD
-8) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
+- 46DF9048760AE9FB
+8) Region you and/or your validator is based (country)
+- Germany and Germany
+9) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
 - I will make sure to go through the validation process of the genesis distribution.
-9) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
+10) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
 
-10) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
+11) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
 - I'll take care of the translation to other language too as I informed before.
-11) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
+12) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
 - I live in Germany and have the German PR, However, I was born as a Iranian person.
-12) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
+13) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
