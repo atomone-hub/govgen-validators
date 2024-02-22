@@ -30,7 +30,7 @@
 7) Unique validator key to submit (from Cosmos Hub)
 
     - cosmos validator address : cosmosvaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvtfc9y5
-    - We are going to use different keys in ATOMONE.
+    - govgen validator address : govgenvaloper100kwgdyssd08nuz24guznr9eyy2p8enjjpfq48
 
 8) Region you and/or your validator is based (country)
     - TODO
