@@ -1,4 +1,12 @@
-# validator
+# Networks
+
+### 🔗 [govgen-1](./govgen-1)
+
+![chain-id](https://img.shields.io/badge/chain%20id-govgen--1-blue?style=for-the-badge)
+
+
+# Validators
+
 **Directory for GovGen and AtomOne Validators**
 
 The GovGen and AtomOne Validators directory is a space to build a registry of GovGen and AtomOne validators for the community. A comprehensive list of validators, with information on who they are and how to get in touch, will make it easier for the validators community to engage directly with one another, coordinate upcoming tasks, and collaborate more efficiently. This directory is also a great space to discuss validated proposals in regard to operating requirements, upcoming issues, implementation ideas, or proposed solutions.
@@ -26,12 +34,13 @@ You can tag it with **"validators directory"**
 4) Details of your validator (website and contact email)
 5) Team structure, roles, and Discord handles
 6) Link to your main social accounts
-7) Unique validator key to submit
+7) Unique validator key to submit (from Cosmos Hub)
+8) Region you and/or your validator is based (country)
 
 **In order for the application to be approved by the community, all AtomOne/GovGen Validators:**
 
-8) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
-9) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
-10) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
-11) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
-12) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
+9) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
+10) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
+11) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
+12) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
+13) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
