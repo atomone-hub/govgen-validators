@@ -12,7 +12,7 @@
 6) Link to your main social accounts
 - https://twitter.com/SimurghStaking
 7) Unique validator key to submit
-- 46DF9048760AE9FB
+- No key is available, I'm not a validator of Cosmos
 8) Region you and/or your validator is based (country)
 - Germany and Germany
 9) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
