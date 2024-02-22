@@ -45,10 +45,16 @@
 
 9) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
 
+- Crosnest join the Cosmoshub active set in Sept 2021 and take part in the governance since. Sometimes by using Weighted votes on community decisions.
+
 10) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
 
 11) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
 
-12) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
+* Crosnest is composed of 5 peoples for Finland, The Netherland, Italia and France.
 
-13) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
+13) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
+
+* Crosnest is an independant entity without any association to any other validators. We are running White label validators without taking advantage.
+
+14) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
