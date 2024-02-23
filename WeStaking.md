@@ -29,8 +29,7 @@
 
 7) Unique validator key to submit (from Cosmos Hub)
 
-    - cosmos validator address : cosmosvaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvtfc9y5
-    - govgen validator address : govgenvaloper100kwgdyssd08nuz24guznr9eyy2p8enjjpfq48
+    - govgenvaloper100kwgdyssd08nuz24guznr9eyy2p8enjjpfq48
 
 8) Region you and/or your validator is based (country)
     - South Korea
