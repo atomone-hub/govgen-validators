@@ -1,0 +1,54 @@
+{
+	"body": {
+		"messages": [
+			{
+				"@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+				"description": {
+					"moniker": "S16 Research Ventures",
+					"identity": "CD80FCB702D70807",
+					"website": "https://s16.ventures",
+					"security_contact": "",
+					"details": "A validator since Cosmos genesis block"
+				},
+				"commission": {
+					"rate": "0.000000000000000000",
+					"max_rate": "0.000000000000000000",
+					"max_change_rate": "0.000000000000000000"
+				},
+				"min_self_delegation": "1",
+				"delegator_address": "govgen1fxl2vm3f2ttn87kwrtrmpyn2dcput08h3au8f3",
+				"validator_address": "govgenvaloper1fxl2vm3f2ttn87kwrtrmpyn2dcput08hql4xrt",
+				"pubkey": {
+					"@type": "/cosmos.crypto.ed25519.PubKey",
+					"key": "oAjomxog/VEqcCUeDoZ5H/wGYpCs5Sp214C4qeWRWJA="
+				},
+				"value": { "denom": "ugovgen", "amount": "1000000" }
+			}
+		],
+		"memo": "421d590d42973e71c582a8daf421873b20607a40@192.168.2.53:26656",
+		"timeout_height": "0",
+		"extension_options": [],
+		"non_critical_extension_options": []
+	},
+	"auth_info": {
+		"signer_infos": [
+			{
+				"public_key": {
+					"@type": "/cosmos.crypto.secp256k1.PubKey",
+					"key": "AmUVnyMwWu6xok6PJiGzJK6lRe6I+EmHEJwKaqkAdc4/"
+				},
+				"mode_info": { "single": { "mode": "SIGN_MODE_DIRECT" } },
+				"sequence": "0"
+			}
+		],
+		"fee": {
+			"amount": [],
+			"gas_limit": "200000",
+			"payer": "",
+			"granter": ""
+		}
+	},
+	"signatures": [
+		"ckabMCLK1pF5u+AaDicrJ3hFRNSNnjNGA36w2tsELrF7aXQ7bBLhZqKUCFWmTPjp3l/Uwg3OJPv6yBpVjSU72A=="
+	]
+}
