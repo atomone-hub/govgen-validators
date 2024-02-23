@@ -27,7 +27,7 @@
 
 7) Unique validator key to submit
 
-- govgen133qn5c90s2cz0488l0h23wlqe784mpl0r7jm2c
+- govgenvaloper133qn5c90s2cz0488l0h23wlqe784mpl0jum6qz
 
 8) Region you and/or your validator is based (country)
 
