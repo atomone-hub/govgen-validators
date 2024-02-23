@@ -19,6 +19,7 @@ realcybergary @ugaenn.io#4296
 
 ### Link to your main social accounts
 Twitter: https://twitter.com/uGaenn
+Telegram: t.me/uGaennCN
 
 ### Unique validator key to submit
 TBD
