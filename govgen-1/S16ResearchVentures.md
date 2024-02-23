@@ -1,10 +1,10 @@
 # Validator Directory: S16 Research Ventures
 
-1. The name of your validator
+1 ) The name of your validator
 
 S16 Research Ventures
 
-2. Why you want to become a validator for GovGen and AtomOne
+2 ) Why you want to become a validator for GovGen and AtomOne
 
 We are very interested in the Atom One experiment, especially in regards to the idea of photons and containers (similar to Amazon Web Services).
 
