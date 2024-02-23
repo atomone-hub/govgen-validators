@@ -12,7 +12,6 @@
 
 - Wetez is a professional Web3 infrastructure provider. Wetez has been serving the crypto industry since 2018. With credible technical strength and guided web3 construction experience, We've provided services for over 50 blockchain projects in Appchain building, DApp development, node operation, API, data storage, data analysis, etc.. We are the long-term service provider for blockchains like Polygon, Cosmos, Kava, Oasis, Solana, Mina, Gravity Bridge, etc., and have a good relationship with them. In the case of node operation, we offer services such as Staking, Network Security, Tools building, Community Education & Governance, etc..
 
-
 4) Details of your validator (website and contact email)
 
 - Website: https://www.wetez.io/
