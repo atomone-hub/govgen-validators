@@ -33,4 +33,21 @@
     - govgen validator address : govgenvaloper100kwgdyssd08nuz24guznr9eyy2p8enjjpfq48
 
 8) Region you and/or your validator is based (country)
-    - TODO
+    - South Korea
+  
+9) Must replicate, understand, and validate the genesis distribution. (See atomone-hub/genesis#65 (review))
+    - Yes
+
+10) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
+    - Yes
+
+11) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
+    - Yes
+
+12) Must provide Transparency disclosures of associations among validators. (Also see Validators and KYC #75).
+    - no connected other validator.
+    
+13) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: (Validators and KYC #75))
+    - Yes
+
+
