@@ -44,7 +44,7 @@
     - Yes
 
 12) Must provide Transparency disclosures of associations among validators. (Also see Validators and KYC #75).
-    - no connected other validator.
+    - Yes
     
 13) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: (Validators and KYC #75))
     - Yes
