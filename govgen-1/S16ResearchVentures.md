@@ -1,3 +1,5 @@
+# Validator Directory: S16 Research Ventures
+
 1. The name of your validator
 
 S16 Research Ventures
@@ -22,26 +24,26 @@ We are genesis members of the Inter-blockchain ecosystem and have been validatin
 
 4. Details of your validator (website and contact email)
 
-Website: https://www.s16.ventures/
-Email: team@s16.ventures
+-  Website: https://www.s16.ventures/
+-  Email: team@s16.ventures
 
 5. Team structure, roles, and Discord handles
 
 Team Structure:
 
-1. Edward: Founder and CEO
+-  Edward: Founder and CEO
    Discord: egcloudz
 
-2. Arifin: Backend Engineer
+-  Arifin: Backend Engineer
    Discord: arifintahu
 
-3. Winton: Backend Engineer
+-  Winton: Backend Engineer
    Discord: h.winton
 
-4. Rafi: Product Lead
+-  Rafi: Product Lead
    Discord: rafinugraha.98
 
-5. Vina: Operation Lead
+-  Vina: Operation Lead
    Discord: vk_s16
 
 6. Link to your main social accounts
