@@ -26,7 +26,7 @@
 - Alexandru Craciunescu, @0xcraci | Head Business Development
 - Amanogho Samuel, @Samuel_01node | Business Developer"
 
-7) Link to your main social accounts
+6) Link to your main social accounts
 
 - Twitter: https://twitter.com/01node
 - Telegram: https://t.me/node01
@@ -34,12 +34,20 @@
 - Github: https://github.com/01node
 - Medium: https://medium.com/01node
 
-8) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
+7) Unique validator key to submit
 
-9) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
+- cosmosvaloper17mggn4znyeyg25wd7498qxl7r2jhgue8u4qjcq
 
-10) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
+8) Region you and/or your validator is based (country)
 
-11) Must contribute to build a fair validators distribution structure by building guidelines to include tiers, participation levels, and validators limitations and operating conditions
+- Romania
 
-12) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)). The AtomOne Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
+9) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
+
+10) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
+
+11) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
+
+12) Must contribute to build a fair validators distribution structure by building guidelines to include tiers, participation levels, and validators limitations and operating conditions
+
+13) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)). The AtomOne Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
