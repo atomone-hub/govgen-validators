@@ -16,7 +16,7 @@
 4) Details of your validator (website and contact email)
 
 - Website: https://www.wetez.io/
-- Github: https://github.com/wetezos
+- Github: https://github.com/wetezos,https://github.com/wetezofficial
 - Docs: https://docs.wetez.io/wetez/
 - Contact email: merlin@wetez.io
 
