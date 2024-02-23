@@ -1,4 +1,4 @@
-## Validator Directory: Forbole
+## Validator Directory: 01node
 
 1) The name of your validator
 
