@@ -27,7 +27,8 @@ Umbrella had been a validator on the Cosmos Hub since genesis.
 
 7) Unique validator key to submit (from Cosmos Hub)
 
-`cosmosvaloper1lktjhnzkpkz3ehrg8psvmwhafg56kfss3q3t8m`
+- `cosmosvaloper1lktjhnzkpkz3ehrg8psvmwhafg56kfss3q3t8m`
+- `govgenvaloper170kzzg9fj6fe0lvr5yg5r0ylplpqwljywn98xz`
 
 8) Region you and/or your validator is based (country)
 
