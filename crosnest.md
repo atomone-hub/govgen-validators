@@ -16,7 +16,7 @@
 
 - Crosnest is a leading professional Proof of Stake validation company, 
   specializing in the provision of blockchain-critical technical services 
-  within the Interchain ecosystem. Our comprehensive offerings include 
+  within the Interchain ecosystem. Our comprehensive offering include 
   white-label node solutions, RPC services and seamless IBC integration. 
   With a commitment to excellence and reliability, Crosnest enables 
   blockchain projects to thrive by offering tailored solutions and expert 
@@ -51,10 +51,11 @@
 
 11) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
 
-* Crosnest is composed of 5 peoples for Finland, The Netherland, Italia and France.
+* Crosnest is composed of 5 people for Finland, The Netherland, Italia and France.
 
 13) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
 
-* Crosnest is an independant entity without any association to any other validators. We are running White label validators without taking advantage.
+* Crosnest is an independent entity without any association to any other validators. Through our White Label service we operate validators on behalf of third parties,
+  who have complete decisional control over their validator's actions, delegations, and rewards.
 
 14) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
