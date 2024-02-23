@@ -34,3 +34,7 @@ Contact Discord: merlinwetez
 
 - cosmos validator address : cosmosvaloper1s05va5d09xlq3et8mapsesqh6r5lqy7mkhwshm
 - govgen validator address : govgenvaloper1zvt8xwhtjd5qw9fgn8rjerst36m0rmc778qc27
+
+8) Region you and/or your validator is based (country)
+
+- Germany/Singapore
