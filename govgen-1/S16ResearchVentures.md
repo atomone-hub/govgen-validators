@@ -1,73 +1,69 @@
 # Validator Directory: S16 Research Ventures
 
-**The name of your validator**:
+1. The name of your validator
 
-S16 Research Ventures
+-  S16 Research Ventures
 
-**Why you want to become a validator for GovGen and AtomOne**:
+2. Why you want to become a validator for GovGen and AtomOne
 
-We are very interested in the Atom One experiment, especially in regards to the idea of photons and containers (similar to Amazon Web Services).
+-  We are very interested in the Atom One experiment, especially in regards to the idea of photons and containers (similar to Amazon Web Services).
 
-We voted No with Veto for Atom 2.0 as we see large risks involved in some of its central bank related concepts. We voted Yes for Prop 848 since Atom has continued struggle in finding product-market fit and change seem like the better of two risky options.
+-  We voted No with Veto for Atom 2.0 as we see large risks involved in some of its central bank related concepts. We voted Yes for Prop 848 since Atom has continued struggle in finding product-market fit and change seem like the better of two risky options.
 
-We are reinvigorated by the recent town hall meeting by the GovGen community and the vision put forth and communicated by Jae Kwon. We have been involved in the Cosmos Hub since the Genesis block and hope to continue to support Jae Kwon’s vision through Atom One and GovGen.
+-  The recent town hall meeting by the GovGen community, and the vision put forth and communicated by Jae Kwon has been reinvigorating. S16 Research Ventures have been involved in the Cosmos Hub since the Genesis block and hope to continue to support Jae Kwon’s vision through Atom One and GovGen.
 
-**Brief history/intro to your validator**:
+3. Brief history/intro to your validator
 
-S16 Research Ventures is a Web3 fund and Validator. Currently we are running validator for Cosmos Hub and Osmosis, showcasing our dedication to nurturing and advancing the ecosystem.
+-  S16 Research Ventures is a Web3 fund and Validator. Currently we are running validator for Cosmos Hub and Osmosis, showcasing our dedication to nurturing and advancing the ecosystem.
 
-We are genesis members of the Inter-blockchain ecosystem and have been validating since the genesis block. In addition to providing a reliable validation service, we’re also contributing to the ecosystem. Our team operates IBC relayers, maintains public RPC nodes for the Cosmos ecosystem, and produces tutorials to facilitate the onboarding process for new users.
+-  We are genesis members of the Inter-blockchain ecosystem and have been validating since the genesis block. In addition to providing a reliable validation service, we’re also contributing to the ecosystem. Our team operates IBC relayers, maintains public RPC nodes for the Cosmos ecosystem, and produces tutorials to facilitate the onboarding process for new users.
 
-**Details of your validator (website and contact email)**:
+4. Details of your validator (website and contact email)
 
 -  Website: https://www.s16.ventures/
 -  Email: team@s16.ventures
 
-**Team structure, roles, and discord handles**:
+5. Team structure, roles, and discord handles
 
 -  Edward: Founder and CEO
    Discord: egcloudz
-
 -  Arifin: Backend Engineer
    Discord: arifintahu
-
 -  Winton: Backend Engineer
    Discord: h.winton
-
 -  Rafi: Product Lead
    Discord: rafinugraha.98
-
 -  Vina: Operation Lead
    Discord: vk_s16
 
-**Link to your main social accounts**:
+6. Link to your main social accounts
 
-Twitter: @S16RV
+-  Twitter: @S16RV
 
-**Unique validator key to submit (from Cosmos Hub)**:
+7. Unique validator key to submit (from Cosmos Hub)
 
-cosmosvaloper1uhnsxv6m83jj3328mhrql7yax3nge5svrv6t6c
+-  cosmosvaloper1uhnsxv6m83jj3328mhrql7yax3nge5svrv6t6c
 
-**Region you and/or your validator is based (country)**:
+8. Region you and/or your validator is based (country)
 
-Indonesia
+-  Indonesia
 
-**Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)**:
+9. Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
 
-Acknowledged
+-  Acknowledged
 
-**Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs**:
+10. Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
 
-Acknowledged
+-  Acknowledged
 
-**Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach**:
+11. Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
 
-Acknowledged
+-  Acknowledged
 
-**Must provide Transparency disclosures of associations among validators. (Also see Validators and KYC #75)**:
+12. Must provide Transparency disclosures of associations among validators. (Also see Validators and KYC #75)
 
-Acknowledged
+-  Acknowledged
 
-**The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: (Validators and KYC #75))**:
+13. The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: (Validators and KYC #75))
 
-Acknowledged
+-  Acknowledged
