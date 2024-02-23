@@ -19,7 +19,7 @@
 
 5) Team structure, roles, and Discord handles
 
-- 
+- Vince, DevOps Engineer, kw1k
 
 6) Link to your main social accounts
 
