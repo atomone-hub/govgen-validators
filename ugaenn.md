@@ -35,7 +35,7 @@ Our commitment to global decentralization through facilitating effective communi
 ### Must provide Transparency disclosures of associations among validators. (Also see Validators and KYC #75).
 Our commitment to upholding transparency by disclosing any associations or affiliations with other validators is a crucial step towards ensuring openness and integrity within the network. This approach fosters trust among network participants, including users, developers, and other validators. 
 
-The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: (Validators and KYC #75))
+### The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: (Validators and KYC #75))
 We will comply with the Know Your Customer (KYC) requirements and actively participate in discussions for establishing best practices for validating submissions is a commendable approach.
 
 If you have any questions, need further clarification, or require additional information on specific subjects, please don't hesitate to reach out. You can contact us via the email or Discord link provided above.
