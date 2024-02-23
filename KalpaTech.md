@@ -32,13 +32,17 @@ With a proud record of no slashing incidents since inception, we have focused on
 - Twitter: [@kalpa_tech](https://twitter.com/kalpa_tech)
 
 7) Unique validator key to submit
+- 
 
-8) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
+8) Region you and/or your validator is based (country)
+- Romania
 
-9) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
+9) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
 
-10) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
+10) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
 
-11) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
+11) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
 
-12) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
+12) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
+
+13) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
