@@ -24,6 +24,16 @@ Discord handles: serejandmyself_citizenweb3 | alibabaedge
 
 6) Link to your main social accounts
 
+7) Unique validator key to submit (from Cosmos Hub)
+
+- cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u (from gaia)
+
+(using different keys)
+
+8) Region you and/or your validator is based (country)
+
+- We are not bound to a single region. Mostly our operations are bound to Western Europe (Portugal)
+
 - Twitter: https://twitter.com/cosmos_voice
 - Telegram: https://t.me/citizenweb3
 - Github: https://github.com/citizenweb3
