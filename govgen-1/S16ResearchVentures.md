@@ -6,17 +6,11 @@
 
 2. Why you want to become a validator for GovGen and AtomOne
 
--  We are very interested in the Atom One experiment, especially in regards to the idea of photons and containers (similar to Amazon Web Services).
-
--  We voted No with Veto for Atom 2.0 as we see large risks involved in some of its central bank related concepts. We voted Yes for Prop 848 since Atom has continued struggle in finding product-market fit and change seem like the better of two risky options.
-
--  The recent town hall meeting by the GovGen community, and the vision put forth and communicated by Jae Kwon has been reinvigorating. S16 Research Ventures have been involved in the Cosmos Hub since the Genesis block and hope to continue to support Jae Kwon’s vision through Atom One and GovGen.
+-  We are very interested in the Atom One experiment, especially in regards to the idea of photons and containers (similar to Amazon Web Services). We voted No with Veto for Atom 2.0 as we see large risks involved in some of its central bank related concepts. We voted Yes for Prop 848 since Atom has continued struggle in finding product-market fit and change seem like the better of two risky options. The recent town hall meeting by the GovGen community, and the vision put forth and communicated by Jae Kwon has been reinvigorating. S16 Research Ventures have been involved in the Cosmos Hub since the Genesis block and hope to continue to support Jae Kwon’s vision through Atom One and GovGen.
 
 3. Brief history/intro to your validator
 
--  S16 Research Ventures is a Web3 fund and Validator. Currently we are running validator for Cosmos Hub and Osmosis, showcasing our dedication to nurturing and advancing the ecosystem.
-
--  We are genesis members of the Inter-blockchain ecosystem and have been validating since the genesis block. In addition to providing a reliable validation service, we’re also contributing to the ecosystem. Our team operates IBC relayers, maintains public RPC nodes for the Cosmos ecosystem, and produces tutorials to facilitate the onboarding process for new users.
+-  S16 Research Ventures is a Web3 fund and Validator. Currently we are running validator for Cosmos Hub and Osmosis, showcasing our dedication to nurturing and advancing the ecosystem. We are genesis members of the Inter-blockchain ecosystem and have been validating since the genesis block. In addition to providing a reliable validation service, we’re also contributing to the ecosystem. Our team operates IBC relayers, maintains public RPC nodes for the Cosmos ecosystem, and produces tutorials to facilitate the onboarding process for new users.
 
 4. Details of your validator (website and contact email)
 
