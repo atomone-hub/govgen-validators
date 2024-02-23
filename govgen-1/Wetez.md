@@ -38,3 +38,23 @@ Contact Discord: merlinwetez
 8) Region you and/or your validator is based (country)
 
 - Germany/Singapore
+
+9. Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
+
+-  Acknowledged
+
+10. Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
+
+-  Acknowledged
+
+11. Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
+
+-  Acknowledged
+
+12. Must provide Transparency disclosures of associations among validators. (Also see Validators and KYC #75)
+
+-  Acknowledged
+
+13. The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: (Validators and KYC #75))
+
+-  Acknowledged
