@@ -32,7 +32,7 @@ With a proud record of no slashing incidents since inception, we have focused on
 - Twitter: [@kalpa_tech](https://twitter.com/kalpa_tech)
 
 7) Unique validator key to submit
-- 
+- govgenvaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetgucsze2xg
 
 8) Region you and/or your validator is based (country)
 - Romania
