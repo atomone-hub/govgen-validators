@@ -4,7 +4,7 @@ Validator Application - AtomOne
 
 1) The name of your validator
 
-- FrasinelliSystems
+- FrasinelliSystems-001
 
 2) Why you want to become a validator for GovNo and AtomOne
 
@@ -38,7 +38,7 @@ Delegate: govgen12q22l5jygac2zpvhxhrn9t64wdhkkdxe3rme72
 
 8) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
 
-  - In process, will be completed this weekend
+  - In process
 
 9) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
 
