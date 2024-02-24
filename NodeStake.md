@@ -12,7 +12,7 @@
 
 3) Brief history/ Intro to your validator
    
-- NodeStake is the professional validator, infrastructure provider and IBC relayer. Up to now, NodeStake has provided validating and infrastructure services (RPC endpoints, snapshots, IBC relayers) for over 70 chains, such as CosmosHub, Celestia, Dymension, etc.Oover $100 million in staked assets, 50,000+ delegators.
+- NodeStake is the professional validator, infrastructure provider and IBC relayer. Up to now, NodeStake has provided validating and infrastructure services (RPC endpoints, snapshots, IBC relayers) for over 70 chains, such as CosmosHub, Celestia, Dymension, etc.Over $100 million in staked assets, 50,000+ delegators.
 
 4) Details of your validator (website and contact email)
 
