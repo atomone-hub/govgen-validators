@@ -56,3 +56,4 @@ Delegate: govgen12q22l5jygac2zpvhxhrn9t64wdhkkdxe3rme72
 
 I am more than happy to participate in any future KYC requirements beyond this initial application. 
 
+13) Region: USA
