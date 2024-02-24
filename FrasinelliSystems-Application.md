@@ -36,24 +36,24 @@ I would like to use this GovGen node as a learning opportunity and refresher in 
 Validator: govgenvaloper12q22l5jygac2zpvhxhrn9t64wdhkkdxeqpjc5s
 Delegate: govgen12q22l5jygac2zpvhxhrn9t64wdhkkdxe3rme72
 
-8) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
+8) Region: USA
+
+9) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
 
   - In process
 
-9) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
+10) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
 
   - See GovGen and AtomOne distribution conversations under multiple GitHub issues. Built a full AtomOne distribution analysis dashboard to assist in that eventual community decision (multiplier amounts, % that each proposal impacts weighting, etc).
 
-10) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
+11) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
 
   - Decentralization is one of the main values of CrowdControl. We adhere to it. Furthermore we are capable of writing [high quality articles](https://medium.com/coinmonks/the-ultimate-cosmos-delegation-guide-for-real-idiots-87ebc6518145) for an efficient global reach
 
-11) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
+12) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
 
   - Working with AiB employees, but as an AtomOne contributor with my role being under New Tendermint leading the separate Gnoland tokenomic/quantitative efforts.
 
-12) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
+13) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
 
 I am more than happy to participate in any future KYC requirements beyond this initial application. 
-
-13) Region: USA
