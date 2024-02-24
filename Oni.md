@@ -19,6 +19,8 @@
 
 5) Team structure, roles, and Discord handles
 
+- Richard Brien, Co-Founder, richardbrien
+- Kevin Garrison, Co-Founder, kevingarrison1
 - Vince, DevOps Engineer, kw1k
 
 6) Link to your main social accounts
@@ -32,7 +34,7 @@
 
 8) Region you and/or your validator is based (country)
 
-- 
+- USA & Brazil
 
 
 9) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
