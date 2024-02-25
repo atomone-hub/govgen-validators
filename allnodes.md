@@ -4,7 +4,7 @@
 
     Allnodes
 
-2) Why you want to become a validator for GovNo and AtomOne
+2) Why you want to become a validator for GovGen and AtomOne
 
     Allnodes would like to become a trusted GovGen validator and 
 contribute to AtomOne with our infrastructure support, security 
@@ -17,8 +17,9 @@ platform for hosting and staking across 78 protocols. Particularly
 noteworthy is the company's focus on the Cosmos Ecosystem, encompassing 39 
 protocols, where Allnodes enhances user experience with specialized 
 infrastructure improvements such as improved governance, a restaking 
-feature for higher returns, and a Stakerecover service with a 96% success 
+feature for higher returns, and a StakeRecover service with a 96% success 
 rate for token retrieval from compromised wallets.
+
 The Allnodes platform hosts 45,382 nodes valued at approximately $4.594 
 billion, showcasing our commitment to providing infrastructure support, 
 security enhancements, network efficiency, and maximum uptime for a 
