@@ -35,18 +35,16 @@
     - South Korea
   
 9) Must replicate, understand, and validate the genesis distribution. (See atomone-hub/genesis#65 (review))
-    - Yes
+    - Acknowledged
 
 10) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
-    - Yes
+    - Acknowledged
 
 11) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
-    - Yes
+    - Acknowledged
 
 12) Must provide Transparency disclosures of associations among validators. (Also see Validators and KYC #75).
-    - Yes
+    - Acknowledged
     
 13) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: (Validators and KYC #75))
-    - Yes
-
-
+    - Acknowledged
