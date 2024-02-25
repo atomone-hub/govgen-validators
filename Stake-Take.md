@@ -1,4 +1,4 @@
-## Validator Directory: silent
+## Validator Directory: Stake-Take
 
 1) The name of your validator
 
