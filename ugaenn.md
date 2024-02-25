@@ -24,6 +24,9 @@ Telegram: t.me/uGaennCN
 ### Unique validator key to submit
 TBD
 
+### Region you and/or your validator is based (country)
+Singapore
+
 ### Must replicate, understand, and validate the genesis distribution. (See atomone-hub/genesis#65 (review))
 We commit to replicating, understanding, and validating the genesis distribution.
 
