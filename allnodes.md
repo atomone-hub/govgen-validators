@@ -35,11 +35,10 @@ diverse range of Masternodes, Validator Nodes, and other node types.
 
 6) Link to your main social accounts
 
-    - Twitter: https://twitter.com/allmnode
+    - Twitter: https://twitter.com/allnodes
     - Discord: https://discord.com/allnodes
     - Telegram: https://t.me/allnodes
-    - Linkedin: https://www.linkedin.com/company/allnodes/
-    - Twitter: https://twitter.com/allnodes
+    - Linkedin: https://www.linkedin.com/company/allnodes
     - Facebook: https://www.facebook.com/allnodes
 
 7) Unique validator key to submit (from Cosmos Hub)
