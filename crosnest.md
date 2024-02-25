@@ -41,7 +41,7 @@
 
 7) Unique validator key to submit
 
-- cosmosvaloper1fsg635n5vgc7jazz9sx5725wnc3xqgr7awxaag
+- govgenvaloper18yql2807afz62dcma92d40f27jr6hzunecwk0y
 
 9) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
 
