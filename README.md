@@ -20,8 +20,8 @@ The Validators directory of the AtomOne repo is an initiative to help serve as a
 * find development synergies and implementations
 * make introductions to potential partners
 * get plugged into the ecosystem
-  
-—--------------------------------------
+
+---
 
 **AtomOne Validator Application Template:**
 
@@ -43,4 +43,4 @@ You can tag it with **"validators directory"**
 10) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
 11) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
 12) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
-13) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75)](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
+13) The Community will put together best practices for KYC-ing and approving validator submissions. The conversation can be followed here: ([Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094))
