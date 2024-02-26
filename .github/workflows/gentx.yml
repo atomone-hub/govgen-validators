@@ -9,8 +9,8 @@ on:
       - "ci/gentx"
 
 env:
-  GOVGEND_VERSION: "v1.0.0"
-  GENESIS_URL: ""
+  GOVGEND_VERSION: "v1.0.1"
+  GENESIS_URL: "https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json"
   MUST_STAKED_AMOUNT: "1000000"
 
 jobs:
