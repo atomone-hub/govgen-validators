@@ -5,7 +5,7 @@
 
 2) Why you want to become a validator for GovGen and AtomOne
 
-Aib Staff working independantly to help support launch of Govgen 
+Working independantly to help support launch of Govgen 
 
 3) Brief history/ Intro to your validator
 
@@ -13,7 +13,7 @@ This is a validator only for Govgen, did not participate in Cosmos Validator set
 
 4) Details of your validator (website and contact email)
 
-fox at AiB 
+himitsu1007@gmail.com
 
 5) Team structure, roles, and Discord handles
 
