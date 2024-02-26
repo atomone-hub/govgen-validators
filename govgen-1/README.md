@@ -2,6 +2,10 @@
 
 ![chain-id](https://img.shields.io/badge/chain%20id-govgen--1-blue?style=for-the-badge)
 
+## Final genesis [download link](https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json)
+
+The final genesis is avalable at [this link](https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json).
+
 ## Register in the Genesis
 
 To register your validator node in the `genesis.json` you just need to provide a signed `gentx` with an initial delegation of `1000000ugovgen`.
