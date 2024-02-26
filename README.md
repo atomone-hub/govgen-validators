@@ -34,7 +34,7 @@ You can tag it with **"validators directory"**
 4) Details of your validator (website and contact email)
 5) Team structure, roles, and Discord handles
 6) Link to your main social accounts
-7) Unique validator key to submit
+7) Unique validator address ( to be used for the GovGen chain)
 8) Region you and/or your validator is based (country)
 
 **In order for the application to be approved by the community, all AtomOne/GovGen Validators:**
