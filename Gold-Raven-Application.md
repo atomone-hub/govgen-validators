@@ -1,6 +1,6 @@
 Validator Application - AtomOne
 
-## Validator Directory: Michael Frasinelli / Frasinelli Systems
+## Validator Directory: Gold Raven
 
 1) The name of your validator
 
@@ -16,15 +16,15 @@ I previously ran validator nodes for Polygon, FLUX, and dozens for Presearch. I 
 
 4) Details of your validator (website and contact email)
 
-  - Email:  michael@topshelfmg.com
+  - Email:  tbd
 
 5) Team structure, roles, and Discord handles
 
-- Michael, Founder/Sole Proprietor, MichaelFrazzy
+- Michael, tbd
 
 6) Link to your main social accounts
 
-  - Github: https://github.com/MichaelFrazzy
+  - Github: tbd
 
 7) Unique validator key to submit
 
