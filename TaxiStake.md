@@ -16,8 +16,8 @@
 5. Link to your main social accounts
     1. https://twitter.com/TaxiStake 
 
-6. Unique validator key to submit 
-    1. See attached gentx.json 
+6. Unique validator key to submit (from Cosmos Hub):
+    1. cosmosvaloper199mlc7fr6ll5t54w7tts7f4s0cvnqgc59nmuxf
 
 7. Region you and/or your validator is based (country)
     1. USA 
