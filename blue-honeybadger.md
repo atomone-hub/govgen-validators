@@ -1,7 +1,7 @@
 
 1) The name of your validator
 
-- fox-govgen001
+- blue-honeybadger001
 
 2) Why you want to become a validator for GovGen and AtomOne
 
