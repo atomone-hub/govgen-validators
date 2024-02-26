@@ -21,15 +21,13 @@ Running as individual.
 
 6) Link to your main social accounts
 
-https://twitter.com/ignite_rebels24
+https://twitter.com/himitsuCTO
 
 7) Unique validator key to submit
 
-govgenvaloper1mtzcsm6xrnvlj4uk4s7n3m4avkf3xn4vj5suh0
+govgen1tn47jnvc20mhmgx4mza7ns3q7vf3falf74y7en
 
-govgen1mtzcsm6xrnvlj4uk4s7n3m4avkf3xn4vrkeaa4
-
-"identity":"dac5886f461cd9f95796ac3d38eebd6593134eac"
+govgenvaloper1tn47jnvc20mhmgx4mza7ns3q7vf3falf0hdlnf330790318fe0a434506cbd9e67b3cf2fb3a70776
 
 
 8) Region you and/or your validator is based (country)
