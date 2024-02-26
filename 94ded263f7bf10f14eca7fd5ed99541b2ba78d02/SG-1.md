@@ -24,7 +24,7 @@
 
 - Tobias, Founder, toschdev on Discord
 - Lobo, CEO, sg1validator on Discord
-- Clyde, DevOps, clydedev on Discord 
+- Clyde, DevOps, clyd_dev on Discord 
 
 6) Link to your main social accounts
 
