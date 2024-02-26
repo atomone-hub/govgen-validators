@@ -4,23 +4,23 @@
       {
         "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
         "description": {
-          "moniker": "nodebb",
+          "moniker": "cs",
           "identity": "06B033BAC39DA21C",
           "website": "https://cosmosspaces.zone",
           "security_contact": "cosmostwitterspaces@gmail.com",
           "details": "Bare Metal Validators, Relayers, and RPC providers. Top tier infrastructure providers rooted in the Cosmos community."
         },
         "commission": {
-          "rate": "0.050000000000000000",
-          "max_rate": "0.200000000000000000",
-          "max_change_rate": "0.010000000000000000"
+          "rate": "0.000000000000000000",
+          "max_rate": "0.000000000000000000",
+          "max_change_rate": "0.000000000000000000"
         },
         "min_self_delegation": "1",
         "delegator_address": "govgen12x52hnhhxe66r5ye9xm8gehx6d6vxtg2k9ae2x",
         "validator_address": "govgenvaloper12x52hnhhxe66r5ye9xm8gehx6d6vxtg2885cqu",
         "pubkey": {
           "@type": "/cosmos.crypto.ed25519.PubKey",
-          "key": "I6aR9sYDL4rPfjPcgYZBr7heWtzlT4NSF6TbroP4pjU="
+          "key": "lWpRqDukSgpv9TWFjopGs941gPauQ1h6VgABhcb1nwI="
         },
         "value": {
           "denom": "ugovgen",
@@ -28,7 +28,7 @@
         }
       }
     ],
-    "memo": "60b15547ee4942e93d431eaadf05c10a48ba3400@57.128.22.99:26656",
+    "memo": "9fd44b4268f5b5f404deb49d5d51cfe63e36fe27@57.128.22.99:26656",
     "timeout_height": "0",
     "extension_options": [],
     "non_critical_extension_options": []
@@ -56,6 +56,6 @@
     }
   },
   "signatures": [
-    "ABGUVhVzxk3D4zmBg7MI3WNBNXYAP/nNeR1a4cDrRu5hUKHepcnnE0Co6EKy/WxyFN+REIalQpinRPapJYh8lA=="
+    "wEvu8ck4zuFdvY4xdQVv0vAzEmU6OZvRqw21UFuhkuEJcyoQ3ZAOexEzvmpnVSQLi2ouIDCP4evhRxauZFCB5w=="
   ]
 }
