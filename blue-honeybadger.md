@@ -13,7 +13,7 @@ This is a validator only for Govgen, did not participate in Cosmos Validator set
 
 4) Details of your validator (website and contact email)
 
-himitsu1007@gmail.com
+tbd
 
 5) Team structure, roles, and Discord handles
 
@@ -21,7 +21,7 @@ Running as individual.
 
 6) Link to your main social accounts
 
-https://twitter.com/himitsuCTO
+tbd
 
 7) Unique validator key to submit
 
