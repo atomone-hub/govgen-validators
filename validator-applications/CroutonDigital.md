@@ -6,8 +6,11 @@
 *  We have great track record in all projects that we participate, and also we have our own monitoring system.
 *  We have rich infrastructure in different parts of world such as Asia, Usa, Europe  and we can cover all project needs with decentralizations.
 *  We are full time in crypto, so we have time and resources to contribute to projects, and we have EU license for crypto-fiat operations. Our team is located in Latvia, i think this is great location for decentralization.
-3) Brief history/ Intro to your validator
+3) Brief history/ Intro to your validator  
+  We are Crouton Digital international team based in Latvia we run validator nodes sonce 2021 with EU license for crypto <--> fiat operations, also we provide web3 services for all projects that we participate in. We run Validator nodes in multiple ecosystems ( Cosmos, Solana,Pokadot,Kusama, Ethereum )and we are one the biggest relayers in cosmos ecosystem,also we provide more than 15 rpc services. We have rich infrastructure all over the world and also we have developed our own monitoring system to provide the highest quality of service. We have share-minded team of 10+ people with different type of skills
 4) Details of your validator (website and contact email)
+* croutondigital@aol.com
+* https://nodes.crouton.digital
 5) Team structure, roles, and Discord handles
 Here is our organization github page https://github.com/Crouton-Digital
 We have 3 dev-ops in our team, 2 content creators, 1 AML specialist, 3 engineers, 1 Designer. And other team members. And tunnel is part of Crouton Digital company   
@@ -20,11 +23,15 @@ We have 3 dev-ops in our team, 2 content creators, 1 AML specialist, 3 engineers
 * https://www.linkedin.com/in/ariza-abdujeva-02400a62/   
 * https://www.linkedin.com/in/jevgenija-tamanska-547089177/   
 6) Link to your main social accounts
+* https://twitter.com/CroutonDigital
+* https://medium.com/@CroutonDigital
+* https://t.me/CroutonDigital
 7) Unique validator address ( to be used for the GovGen chain)   
  ```
 govgenvaloper14ekxy6xuamq022ueqq3scgmtkxl8xr7lh6ytt9
 ```
-9) Region you and/or your validator is based (country)
+8) Region you and/or your validator is based (country)
+   * Latvia / Riga
 
 **In order for the application to be approved by the community, all AtomOne/GovGen Validators:**
 
