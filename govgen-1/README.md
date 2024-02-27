@@ -66,7 +66,7 @@ More info on the genesis can be found at https://github.com/atomone-hub/govgen-g
 ```sh
 $ wget -O ~/.govgen/config/genesis.json https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json
 $ md5sum ~/.govgen/config/genesis.json
-57963e3432ac74ec2b5ae206c18a1209
+8ff1071744159cb8efce69edb6ca7d46
 ```
 
 ### Recommendations
