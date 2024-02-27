@@ -61,6 +61,7 @@ $ make install
 ### Genesis file [download link](https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json)
 
 The final genesis is avalable at [this link](https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json).
+More info on the genesis can be found at https://github.com/atomone-hub/govgen-genesis
 
 ```sh
 $ wget -O ~/.govgen/config/genesis.json https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json
