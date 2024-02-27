@@ -42,6 +42,22 @@ govgend gentx your-key-name 1000000ugovgen \
 
 ## Operate the node 
 
+### Install the binary
+
+- You can install the binary from github release page
+
+https://github.com/atomone-hub/govgen/releases/tag/v1.0.1
+
+- Build from the source
+
+You need to have [go](https://go.dev/doc/install) installed
+
+```sh
+$ git clone https://github.com/atomone-hub/govgen.git
+$ cd govgen
+$ make install
+```
+
 ### Genesis file [download link](https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json)
 
 The final genesis is avalable at [this link](https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json).
@@ -54,8 +70,12 @@ $ md5sum ~/.govgen/config/genesis.json
 
 ### Recommendations
 
-| minimum-gas-prices | 0.001ugovgen |
-|--------------------|--------------|
+| minimum-gas-prices | 0.001ugovgen                                         |
+|--------------------|------------------------------------------------------|
+| seeds              | [see ./seeds.txt](./seeds.txt)                       |
+|--------------------|------------------------------------------------------|
+| persistent_peers   | [see ./persistent_peers.txt](./persistent_peers.txt) |
+
 
 ## Hardware recommendation
 
