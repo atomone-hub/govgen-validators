@@ -65,7 +65,7 @@ The final genesis is avalable at [this link](https://atomone.fra1.digitaloceansp
 ```sh
 $ wget -O ~/.govgen/config/genesis.json https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json
 $ md5sum ~/.govgen/config/genesis.json
-53800c74844af747b1032ef6c5bf3fc4  genesis.json
+57963e3432ac74ec2b5ae206c18a1209
 ```
 
 ### Recommendations
