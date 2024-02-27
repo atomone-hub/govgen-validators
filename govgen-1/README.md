@@ -73,7 +73,6 @@ $ md5sum ~/.govgen/config/genesis.json
 | minimum-gas-prices | 0.001ugovgen                                         |
 |--------------------|------------------------------------------------------|
 | seeds              | [see ./seeds.txt](./seeds.txt)                       |
-|--------------------|------------------------------------------------------|
 | persistent_peers   | [see ./persistent_peers.txt](./persistent_peers.txt) |
 
 
