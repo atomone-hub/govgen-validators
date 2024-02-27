@@ -3,11 +3,13 @@
 
 - DokiaCapital
 
-2) Why you want to become a validator for GovNo and AtomOne
-Supporting both the Hub and AtomOne as valuable alternatives is aligned with the ecosystem’s ethos of decentralization and diversity. 
+2) Why You Want to Become a Validator for GovNo and AtomOne
 
-3) Brief history/ Intro to your validator
-Dokia Capital has been a Cosmos validator since Genesis.
+Our interest in becoming validators for GovNo and AtomOne stems from a commitment to fostering a decentralized and diverse Cosmos ecosystem. We recognize the importance of supporting multiple platforms that align with these values. By participating as validators in AtomOne, we aim to contribute to the resilience and integrity of the network.
+
+3) Brief History/Introduction to Your Validator
+
+Dokia Capital has been deeply integrated into the Cosmos ecosystem since its inception, operating as a validator from the very start. Our journey began with a clear vision: to support the development and adoption of blockchain technology by providing secure, reliable validation services. Our long-standing presence since Genesis reflects our dedication to the network's health and our unwavering belief in Cosmos's potential to redefine the landscape of blockchain technology.
 
 4) Details of your validator (website and contact email)
  https://dokia.capital | contact@dokia.capital
