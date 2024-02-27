@@ -2,7 +2,7 @@
 
 ![chain-id](https://img.shields.io/badge/chain%20id-govgen--1-blue?style=for-the-badge)
 ![version: v1.0.1](https://img.shields.io/badge/version-v1.0.1-green?style=for-the-badge)
-![genesis-time](https://img.shields.io/badge/%E2%8F%B0%20genesis%20time-2024--02--27T13%3A00%3A00Z-red?style=for-the-badge)
+![genesis-time](https://img.shields.io/badge/%E2%8F%B0%20genesis%20time-2024--02--27T14%3A00%3A00Z-red?style=for-the-badge)
 
 
 ## Register in the Genesis
