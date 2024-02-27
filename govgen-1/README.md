@@ -1,10 +1,7 @@
 # 🔗 `govgen-1`
 
 ![chain-id](https://img.shields.io/badge/chain%20id-govgen--1-blue?style=for-the-badge)
-
-## Final genesis [download link](https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json)
-
-The final genesis is avalable at [this link](https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json).
+![genesis-time](https://img.shields.io/badge/%E2%8F%B0%20genesis%20time-2024--02--27T13%3A00%3A00Z-red?style=for-the-badge)
 
 ## Register in the Genesis
 
@@ -41,13 +38,29 @@ govgend gentx your-key-name 1000000ugovgen \
   --security-contact "security@foo.network"
 ```
 
-## Node operator recommendation
+## Operate the node 
 
-### Hardware recommendation
+### Genesis file [download link](https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json)
+
+The final genesis is avalable at [this link](https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json).
+
+```sh
+$ wget -O ~/.govgen/config/genesis.json https://atomone.fra1.digitaloceanspaces.com/govgen/govgen-1/genesis.json
+$ md5sum ~/.govgen/config/genesis.json
+53800c74844af747b1032ef6c5bf3fc4  genesis.json
+```
+
+### Recommendations
+
+| minimum-gas-prices | 0.001ugovgen |
+|--------------------|--------------|
+
+## Hardware recommendation
 
 GovGen is a relatively simple and vanilla Cosmos SDK chain with minor modifications. The recommended minimum hardware requirements should be enough to comfortably be able to run a validator node.
 
 - 4 Cores
 - 8 GB RAM
 - 512 GB disk space (could increase over time, will need to monitor disk usage)
+
 
