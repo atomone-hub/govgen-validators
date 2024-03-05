@@ -8,9 +8,11 @@
 
 - We, at NODEJUMPER, are deeply committed to advancing the blockchain ecosystem through our professional validation services, particularly within the Cosmos ecosystem. Our aspiration to become validators for AtomOne is driven by our extensive experience, technical expertise, and a shared vision for a more decentralized, secure, and efficient blockchain infrastructure. We are eager to contribute our skills, resources, and passion to this project.
 
-3) Brief history/ Intro to your validator
+3) Brief history / Intro to your validator
 
 - Since our inception in 2021, Nodejumper has established itself as a professional in the blockchain validation space, successfully operating over 40 chains and contributing significantly to the Cosmos ecosystem as a genesis validator. As a tech-focused project, we actively contribute to open-source projects and deliver conference presentations for the crypto community.
+- With a remote team of software engineers, analysts, designers, and moderators, Nodejumper's web services draw over 5K monthly users with 100K views. The community of 3K+ members is growing daily, and we support 5–10 new testnets every month. Nodejumper is recommended as a valuable data analytics and scripting tool by many crypto projects. Our infrastructure includes more than 30 dedicated servers around the world. Team core values include building relationships, being curious and open, and making a difference every day.
+  More about us:  https://github.com/nodejumper-org#-about-us
 
 4) Details of your validator (website and contact email)
 
