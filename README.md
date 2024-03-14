@@ -39,7 +39,7 @@ You can tag it with **"validators directory"**
 
 **In order for the application to be approved by the community, all AtomOne/GovGen Validators:**
 
-9) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/genesis/pull/65#pullrequestreview-1775992431)
+9) Must replicate, understand, and validate the genesis distribution. (See https://github.com/atomone-hub/govbox/blob/master/SNAPSHOT-EXTRACT.md)
 10) Must contribute to the above to prove understanding of it by contributing to the code or creating a PR/PRs
 11) Must adhere to a global decentralization mandate and if required to cooperate in translation for an efficient global reach
 12) Must provide Transparency disclosures of associations among validators. (Also see [Validators and KYC #75](https://github.com/atomone-hub/genesis/issues/75#issue-2034573094)).
