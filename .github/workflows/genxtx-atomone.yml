@@ -1,0 +1,82 @@
+name: Gentx checker
+
+on:
+  pull_request: {}
+
+env:
+  ATOMONED_VERSION: "v1.0.0"
+  GENESIS_URL: "https://atomone.fra1.digitaloceanspaces.com/atomone/atomone-1/genesis.json"
+  MUST_STAKED_AMOUNT: "1000000"
+
+jobs:
+  check-gentx:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get changed files
+        id: files
+        uses: jitterbit/get-changed-files@v1
+        with:
+          format: json
+
+      - name: Check gentx values
+        run: |
+          for f in ${{ steps.files.outputs.all }}; do
+            if [[ "$f" == "*gentx/*.json" ]]; then
+              echo "checking file: $f"
+              COMMISSION_RATE=$(cat $f | jq -r '.body.messages[0].commission.rate')
+              COMMISSION_MAX_RATE=$(cat $f | jq -r '.body.messages[0].commission.max_rate')
+              COMMISSION_MAX_CHANGE_RATE=$(cat $f | jq -r '.body.messages[0].commission.max_change_rate')
+              STAKED_AMOUNT=$(cat $f | jq -r '.body.messages[0].value.amount')
+              # bc return 1 when success
+
+              if [ "${COMMISSION_RATE}" != "0" ]; then
+                echo error="Invalid commission rate." >> ${GITHUB_OUTPUT}
+                exit 1
+              fi
+
+              if [ "${COMMISSION_MAX_RATE}" != "0" ]; then
+                echo error="Invalid commission max rate." >> ${GITHUB_OUTPUT}
+                exit 1
+              fi
+
+              if [ "${COMMISSION_MAX_CHANGE_RATE}" != "0" ]; then
+                echo error="Invalid commission max change rate." >> ${GITHUB_OUTPUT}
+                exit 1
+              fi
+
+              if [ "${STALED_AMOUNT}" != "${MUST_STAKED_AMOUNT}" ]; then
+                echo error="Invalid staked amount." >> ${GITHUB_OUTPUT}
+                exit 1
+              fi
+            fi
+          done
+
+  validate-gentx:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download atomoned
+        run: |
+          wget -O /usr/local/bin/atomoned https://github.com/atomone-hub/atomone/releases/download/${ATOMONED_VERSION}/atomoned-${ATOMONED_VERSION}-linux-amd64
+          chmod +x /usr/local/bin/atomoned
+
+      - name: Collect gentxs
+        run: |
+          atomoned init github-ci --chain-id atomone-1
+
+          # wget -O $HOME/.atomone/config/genesis.json $GENESIS_URL
+
+          for f in "atomone-1/gentx/*.json"; do
+            ADDR=$(cat $f | jq -r '.body.messages[0].delegator_address')
+            atomoned add-genesis-account $ADDR 10000000uatone
+          done
+          atomoned collect-gentxs --gentx-dir ./atomone-1/gentx
+
+      - name: Validate genesis
+        run: |
+          atomoned validate-genesis
