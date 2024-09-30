@@ -86,3 +86,6 @@ GovGen is a relatively simple and vanilla Cosmos SDK chain with minor modificati
 - 512 GB disk space (could increase over time, will need to monitor disk usage)
 
 
+## Network informations
+
+You can get a list of public Explorers, RPCs, seed nodes, persistent_peers... on [cosmos.directory/govgen](https://cosmos.directory/govgen)
